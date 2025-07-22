@@ -31,11 +31,11 @@ server.registerTool(
     await execa("node", ["clone.js", url, outputDir], { stdio: "inherit" });
 
     // Opcional: comprimir en ZIP
-    const zipPath = path.join(outputDir, "site.zip");
-    await execa("powershell", [
-      "-Command",
-      `Compress-Archive -Path ${outputDir}\\* -DestinationPath ${zipPath} -Force`
-    ]);
+// Opcional: comprimir en ZIP con zip de Linux
+const zipPath = path.join(outputDir, "site.zip");
+// Zipea todo el contenido de la carpeta outputDir
+await execa("zip", ["-r", zipPath, "."], { cwd: outputDir });
+
 
     return {
       content: [
