@@ -1,17 +1,21 @@
 {
-  "name": "nueva-carpeta",
+  "name": "site-cloner",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "clone-mcp.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node clone-mcp.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
   "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.16.0",
+    "execa": "^9.6.0",
+    "fs-extra": "^11.3.0",
     "http-server": "^14.1.1",
-    "puppeteer": "^24.14.0"
+    "puppeteer": "^24.14.0",
+    "zod": "^3.25.76"
   }
 }
