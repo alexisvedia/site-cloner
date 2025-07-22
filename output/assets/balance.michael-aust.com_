@@ -1,0 +1,782 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    
+    <meta charset="utf-8">
+    <title>Balance | Home</title>
+    <meta name="description" content="This is a site by Michael Aust for Premium Premade Websites.">
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="Michael Aust">
+
+    <!-- Open Graph Meta-Tags -->
+    <meta property="og:title" content="Balance | Home">
+    <meta property="og:description" content="This is a site by Michael Aust for Premium Premade Websites.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://balance.michael-aust.com">
+
+    <!-- Social Branding Bild -->
+            <meta name="thumbnail" content="https://balance.michael-aust.com/media/site/658bf52054-1747910321/social_branding.png">
+        <meta property="og:image" content="https://balance.michael-aust.com/media/site/658bf52054-1747910321/social_branding.png">
+        <meta name="twitter:image" content="https://balance.michael-aust.com/media/site/658bf52054-1747910321/social_branding.png">
+    
+    <!-- Weitere Meta-Tags -->
+    <meta property="og:site_name" content="Balance Template">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#FCFCFC">
+    <link rel="canonical" href="https://balance.michael-aust.com">
+
+    <!-- Favicon -->
+                <!-- Standard Favicon -->
+            <link rel="icon" href="https://balance.michael-aust.com/media/site/d54395d90e-1743333517/favicon.ico" type="image/x-icon">
+
+            <!-- Favicon für Retina Displays und größere Auflösungen -->
+            <link rel="icon" href="https://balance.michael-aust.com/media/site/d54395d90e-1743333517/favicon.ico" sizes="32x32" type="image/png">
+            <link rel="icon" href="https://balance.michael-aust.com/media/site/d54395d90e-1743333517/favicon.ico" sizes="192x192" type="image/png">
+            <link rel="icon" href="https://balance.michael-aust.com/media/site/d54395d90e-1743333517/favicon.ico" sizes="512x512" type="image/png">
+            
+            <link rel="preload" href="https://balance.michael-aust.com/assets/fonts/inter-tight-regular.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+            <link rel="preload" href="https://balance.michael-aust.com/assets/fonts/inter-tight-700.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+            <link rel="preload" href="https://balance.michael-aust.com/assets/fonts/inter-regular.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+            <link rel="preload" href="https://balance.michael-aust.com/assets/fonts/inter-500.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+            <link rel="preload" href="https://balance.michael-aust.com/assets/fonts/inter-700.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+        <!-- CSS-Styles -->
+    <link href="https://balance.michael-aust.com/assets/css/icomoon.css" rel="stylesheet">
+<link href="https://balance.michael-aust.com/assets/css/style.css" rel="stylesheet"></head>
+
+<body data-barba="wrapper" id="body" class="no-js"><div data-barba="container" data-barba-namespace="home">
+  <div class="quickbar" id="quickbar">
+  <div class="quickbar-inner">
+    <div class="row quickbar-row middle between">
+      <div class="col default-6 branding-col">
+                <a href="https://balance.michael-aust.com" title="Back to Home" class="branding">
+          <img src="https://balance.michael-aust.com/media/site/98305abdd7-1743182712/logo-placeholder.svg" alt=" John Taylor - Logo">
+        </a>
+              </div>
+
+      <div class="col default-6 large-2 menu-col">
+        <button class="menu" data-toggle-nav aria-label="Open Menu">
+
+          <span class="hamburger">
+            <span class="line">
+              <span class="line-inner"></span>
+            </span>
+            <span class="line">
+              <span class="line-inner"></span>
+            </span>
+          </span>
+          <span class="x">
+            <span class="line"></span>
+            <span class="line"></span>
+            <span class="circle"></span>
+          </span>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+  <div id="navigation" data-lenis-prevent aria-expanded="false" role="navigation">
+  <div class="row">
+    <div class="col">
+      <div class="navigation-inner">
+        <div class="infos-ct">
+          <div class="socials-ct">
+                        <div class="social instagram">
+                  <a href="https://www.instagram.com/" target="_blank" title="Visit on Instagram">
+                      <i class="icon-instagram"></i>
+                  </a>
+              </div>
+                        <div class="social facebook">
+                  <a href="https://www.facebook.com/" target="_blank" title="Visit on Facebook">
+                      <i class="icon-facebook"></i>
+                  </a>
+              </div>
+                        <div class="social x">
+                  <a href="https://x.com/" target="_blank" title="Visit on X">
+                      <i class="icon-x"></i>
+                  </a>
+              </div>
+                        <div class="social linkedin">
+                  <a href="https://www.linkedin.com/" target="_blank" title="Visit on Linkedin">
+                      <i class="icon-linkedin"></i>
+                  </a>
+              </div>
+                        <div class="social youtube">
+                  <a href="https://www.youtube.com/" target="_blank" title="Visit on Youtube">
+                      <i class="icon-youtube"></i>
+                  </a>
+              </div>
+                    </div>
+
+          <div class="contact-infos">
+
+                            <div class="element-wrapper">
+            <div class="contact-type">(Inquiries)</div>
+                      </div>
+          <div class="element-wrapper">
+            <div class="contact-value"><a class="line-link shown email-protected" 
+            data-user="john" 
+            data-domain="jt-studio.com">
+            john[at]jt-studio[dot]com
+        </a></div>
+          </div>
+
+                  <div class="element-wrapper">
+            <div class="contact-type">(Phone)</div>
+                      </div>
+          <div class="element-wrapper">
+            <div class="contact-value"><a class="line-link shown" title="Give us a call" href="tel:+49123456789">+491234 56789</a></div>
+          </div>
+
+
+
+
+
+          </div>
+        </div>
+        <nav data-nav>
+          <ul>
+                        <li class="home">
+                  <div class="li-inner">
+                      <a href="https://balance.michael-aust.com" class="home line-link" title="Home">
+                          Home                                                </a>
+                  </div>
+              </li>
+                        <li class="about">
+                  <div class="li-inner">
+                      <a href="https://balance.michael-aust.com/about" class="about line-link" title="About">
+                          About                                                </a>
+                  </div>
+              </li>
+                        <li class="work">
+                  <div class="li-inner">
+                      <a href="https://balance.michael-aust.com/work" class="work line-link" title="Work">
+                          Work                                                        <span class="work-count">(6)</span>
+                                                </a>
+                  </div>
+              </li>
+                        <li class="contact">
+                  <div class="li-inner">
+                      <a href="https://balance.michael-aust.com/contact" class="contact line-link" title="Contact">
+                          Contact                                                </a>
+                  </div>
+              </li>
+                    </ul>
+        </nav>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="desktop-navi-wrapper">
+  <div class="row">
+  <div class="col large-4 large-prefix-6 desktop-navi-col">
+        <ul data-nav class="desktop-nav">
+                      <li class="home">
+                  <div class="li-inner">
+                      <a href="https://balance.michael-aust.com" class="home line-link" title="Home">
+                          Home                                                </a>
+                  </div>
+              </li>
+                        <li class="about">
+                  <div class="li-inner">
+                      <a href="https://balance.michael-aust.com/about" class="about line-link" title="About">
+                          About                                                </a>
+                  </div>
+              </li>
+                        <li class="work">
+                  <div class="li-inner">
+                      <a href="https://balance.michael-aust.com/work" class="work line-link" title="Work">
+                          Work                                                        <span class="work-count">(6)</span>
+                                                </a>
+                  </div>
+              </li>
+                        <li class="contact">
+                  <div class="li-inner">
+                      <a href="https://balance.michael-aust.com/contact" class="contact line-link" title="Contact">
+                          Contact                                                </a>
+                  </div>
+              </li>
+          
+          </ul>
+        </div>
+  </div>
+</div>
+
+
+<div class="loading-screen"></div>
+
+  <header class="header index-header">
+    <div class="overlay" aria-hidden="true"></div>
+    <div class="row">
+      <div class="col">
+        <div class="name">
+          <div class="name-inner">
+            John Taylor          </div>
+        </div>
+
+        <!-- <div class="marquee" data-marquee-target data-marquee-duplicate="2" data-marquee-direction="left"
+                data-marquee-status="inverted" data-marquee-speed="30" data-marquee-scroll-speed="12">
+                <div class="marquee-scroll">
+                  <div class="marquee-content">
+                    <div class="name">John Taylor</div>
+                    <div class="line">–</div>
+                  </div>
+                </div>
+              </div> -->
+        <div class="header-intro-text">
+
+          <h1 data-split-lines>Digital Designer</h1>
+          <p data-split-lines>I help designers and agencies elevate their branding with creative development support.</p>
+        </div>
+      </div>
+    </div>
+
+        <div class="index-header-img-ct-wrapper">
+
+      <div class="index-header-img-ct" data-no-parallax-desktop data-parallax-strength="2.5" data-parallax-height="0.5">
+
+                
+        <picture>
+          <source media="(max-width: 480px)" srcset="https://balance.michael-aust.com/media/pages/home/9f06b010e0-1743182714/header-img-placeholder-480x840-crop.webp">
+          <source media="(max-width: 760px)" srcset="https://balance.michael-aust.com/media/pages/home/9f06b010e0-1743182714/header-img-placeholder-760x.webp">
+          <source media="(max-width: 1200px)" srcset="https://balance.michael-aust.com/media/pages/home/9f06b010e0-1743182714/header-img-placeholder-1200x.webp">
+          <source media="(max-width: 1920px)" srcset="https://balance.michael-aust.com/media/pages/home/9f06b010e0-1743182714/header-img-placeholder-1920x.webp">
+          <source media="(min-width: 1921px)" srcset="https://balance.michael-aust.com/media/pages/home/9f06b010e0-1743182714/header-img-placeholder-2560x.webp">
+          <img class="index-header-img lazy" alt="Dark skinned man in white suit looking to the left in a bright studio next to a table with flowers on it."
+            src="https://balance.michael-aust.com/media/pages/home/9f06b010e0-1743182714/header-img-placeholder-20x-blur2-q30.webp" data-src="https://balance.michael-aust.com/media/pages/home/9f06b010e0-1743182714/header-img-placeholder-2560x.webp" data-parallax-target data-sizes="(max-width: 480px) 480px, 
+                                    (max-width: 760px) 760px, 
+                                    (max-width: 1200px) 100vw, 
+                                    (max-width: 1920px) 100vw, 
+                                    100vw">
+        </picture>
+
+              </div>
+          </div>
+  </header>
+  <main class="index-main">
+        <section class="index-about-sec">
+      <div class="row">
+        <div class="col large-11">
+          <div class="big-text-sec">
+            <div class="row">
+              <div class="col default-5 large-3 large-prefix-1">
+                                                <div class="index-intro-img-ct" data-parallax-strength="1.5" data-parallax-height="0.9">
+                  
+        <picture>
+            <source media='(max-width: 480px)' srcset='https://balance.michael-aust.com/media/pages/home/d09fd96a96-1743182714/index-about-placeholder-20x-blur2-q30.webp' data-srcset='https://balance.michael-aust.com/media/pages/home/d09fd96a96-1743182714/index-about-placeholder-480x.webp' type='image/webp'>
+            <source media='(max-width: 760px)' srcset='https://balance.michael-aust.com/media/pages/home/d09fd96a96-1743182714/index-about-placeholder-20x-blur2-q30.webp' data-srcset='https://balance.michael-aust.com/media/pages/home/d09fd96a96-1743182714/index-about-placeholder-760x.webp' type='image/webp'>
+            <source media='(max-width: 1200px)' srcset='https://balance.michael-aust.com/media/pages/home/d09fd96a96-1743182714/index-about-placeholder-20x-blur2-q30.webp' data-srcset='https://balance.michael-aust.com/media/pages/home/d09fd96a96-1743182714/index-about-placeholder-1200x.webp' type='image/webp'>
+            <source media='(max-width: 1920px)' srcset='https://balance.michael-aust.com/media/pages/home/d09fd96a96-1743182714/index-about-placeholder-20x-blur2-q30.webp' data-srcset='https://balance.michael-aust.com/media/pages/home/d09fd96a96-1743182714/index-about-placeholder-1920x.webp' type='image/webp'>
+            <source media='(min-width: 1921px)' srcset='https://balance.michael-aust.com/media/pages/home/d09fd96a96-1743182714/index-about-placeholder-20x-blur2-q30.webp' data-srcset='https://balance.michael-aust.com/media/pages/home/d09fd96a96-1743182714/index-about-placeholder-2560x.webp' type='image/webp'>
+            <img 
+                class='index-intro-img lazy' 
+                src='https://balance.michael-aust.com/media/pages/home/d09fd96a96-1743182714/index-about-placeholder-20x-blur2-q30.webp' 
+                data-src='https://balance.michael-aust.com/media/pages/home/d09fd96a96-1743182714/index-about-placeholder-2560x.webp'
+                data-srcset='https://balance.michael-aust.com/media/pages/home/d09fd96a96-1743182714/index-about-placeholder-480x.webp 480px, https://balance.michael-aust.com/media/pages/home/d09fd96a96-1743182714/index-about-placeholder-760x.webp 760px, https://balance.michael-aust.com/media/pages/home/d09fd96a96-1743182714/index-about-placeholder-1200x.webp 1200px, https://balance.michael-aust.com/media/pages/home/d09fd96a96-1743182714/index-about-placeholder-1920x.webp 1920px, https://balance.michael-aust.com/media/pages/home/d09fd96a96-1743182714/index-about-placeholder-2560x.webp 2560px' 
+                data-sizes='(max-width: 480px) 480px, (max-width: 760px) 760px, (max-width: 1200px) 1200px, (max-width: 1920px) 1920px, 2560px' 
+                alt="Black and white image of flowers with a glass stripe effect over them."
+                data-parallax-target>
+        </picture>
+                    </div>
+
+                                
+              </div>
+            </div>
+                        <p class="h1 index-info-text split-line-animation split-lineheight-fix" data-split-lines>
+              <span class="spacer"></span>
+              I help brands craft meaningful stories and compelling visuals that deeply resonate with their audience, foster strong connections, build lasting loyalty, and drive sustainable long-term growth.            </p>
+                      </div>
+        </div>
+        <div class="col large-6 large-prefix-5">
+
+                    <div class="border-line"></div>
+          <div class="text-block-ct">
+            <div class="row">
+                            <div class="col large-6">
+
+                <div class="text-block">
+                  <div class="row">
+                    <div class="col ">
+                      <span class="block-title" data-split-lines>
+                        From A to Z                      </span>
+                    </div>
+                    <div class="col ">
+                      <p class="block-text" data-split-lines>I manage your entire branding process, from concept to execution. Whether it&#039;s logo design, messaging, or strategy, I ensure everything aligns for a cohesive and impactful brand.</p>
+
+                    </div>
+                  </div>
+                </div>
+              </div>
+                            <div class="col large-6">
+
+                <div class="text-block">
+                  <div class="row">
+                    <div class="col ">
+                      <span class="block-title" data-split-lines>
+                        Solo or Team                      </span>
+                    </div>
+                    <div class="col ">
+                      <p class="block-text" data-split-lines>I work both independently and with a trusted team, adapting to your project&rsquo;s needs to deliver the best results, whether it&#039;s a solo vision or a collaborative effort.</p>
+
+                    </div>
+                  </div>
+                </div>
+              </div>
+                          </div>
+          </div>
+                  </div>
+        <div class="col large-6 large-prefix-5">
+                              <a href="https://balance.michael-aust.com/about" class="btn about-me-btn" title="About | Balance">
+            <div class="clip">
+              <div class="word" data-split-characters>More about me</div>
+              <div class="word" data-split-characters>More about me</div>
+            </div>
+            <div class="background"></div>
+          </a>
+                  </div>
+      </div>
+    </section>
+    
+        <section class="home-references-sec">
+      <div class="reference-list">
+                        <a href="https://balance.michael-aust.com/work/apex-architecture" title="Apex Architects | See reference">
+          <div class="reference-item">
+              <div class="bg">
+        
+        <picture>
+            <source media="(max-width: 480px)" srcset="https://balance.michael-aust.com/media/pages/home/a6db114736-1743182713/apex-home-teaser-20x-blur2-q30.webp" data-srcset="https://balance.michael-aust.com/media/pages/home/a6db114736-1743182713/apex-home-teaser-480x900-crop.webp" type="image/webp">
+            <source media="(max-width: 760px)" srcset="https://balance.michael-aust.com/media/pages/home/a6db114736-1743182713/apex-home-teaser-20x-blur2-q30.webp" data-srcset="https://balance.michael-aust.com/media/pages/home/a6db114736-1743182713/apex-home-teaser-640x.webp" type="image/webp">
+            <source media="(max-width: 1200px)" srcset="https://balance.michael-aust.com/media/pages/home/a6db114736-1743182713/apex-home-teaser-20x-blur2-q30.webp" data-srcset="https://balance.michael-aust.com/media/pages/home/a6db114736-1743182713/apex-home-teaser-1200x.webp" type="image/webp">
+            <source media="(max-width: 1920px)" srcset="https://balance.michael-aust.com/media/pages/home/a6db114736-1743182713/apex-home-teaser-20x-blur2-q30.webp" data-srcset="https://balance.michael-aust.com/media/pages/home/a6db114736-1743182713/apex-home-teaser-1920x.webp" type="image/webp">
+            <source media="(min-width: 1921px)" srcset="https://balance.michael-aust.com/media/pages/home/a6db114736-1743182713/apex-home-teaser-20x-blur2-q30.webp" data-srcset="https://balance.michael-aust.com/media/pages/home/a6db114736-1743182713/apex-home-teaser-2560x.webp" type="image/webp">
+            
+            <img 
+                alt="reference image" 
+                class="lazy" 
+                src="https://balance.michael-aust.com/media/pages/home/a6db114736-1743182713/apex-home-teaser-20x-blur2-q30.webp" 
+                data-src="https://balance.michael-aust.com/media/pages/home/a6db114736-1743182713/apex-home-teaser-2560x.webp" 
+                data-srcset="https://balance.michael-aust.com/media/pages/home/a6db114736-1743182713/apex-home-teaser-480x900-crop.webp 480px, 
+                             https://balance.michael-aust.com/media/pages/home/a6db114736-1743182713/apex-home-teaser-640x.webp 640px, 
+                             https://balance.michael-aust.com/media/pages/home/a6db114736-1743182713/apex-home-teaser-1200x.webp 1200px, 
+                             https://balance.michael-aust.com/media/pages/home/a6db114736-1743182713/apex-home-teaser-1920x.webp 1920px, 
+                             https://balance.michael-aust.com/media/pages/home/a6db114736-1743182713/apex-home-teaser-2560x.webp 2560px"
+                data-sizes="(max-width: 480px) 480px, 
+                            (max-width: 760px) 640px, 
+                            (max-width: 1200px) 100vw, 
+                            (max-width: 1920px) 100vw, 
+                            100vw">
+        </picture>
+
+    </div>
+
+
+
+            <div class="row">
+              <div class="col">
+                <h2 class="reference-title line-link shown">
+                  <span data-split-characters>
+                    Apex Architects                  </span>
+                  <span data-split-characters>
+                    Apex Architects                  </span>
+                </h2>
+              </div>
+            </div>
+          </div>
+        </a>
+
+                                <a href="https://balance.michael-aust.com/work/dionysos-resorts" title="Dionysos Resorts | See reference">
+          <div class="reference-item">
+              <div class="bg">
+        
+        <picture>
+            <source media="(max-width: 480px)" srcset="https://balance.michael-aust.com/media/pages/home/fabae3ecf9-1743182713/dionysos-home-teaser-20x-blur2-q30.webp" data-srcset="https://balance.michael-aust.com/media/pages/home/fabae3ecf9-1743182713/dionysos-home-teaser-480x900-crop.webp" type="image/webp">
+            <source media="(max-width: 760px)" srcset="https://balance.michael-aust.com/media/pages/home/fabae3ecf9-1743182713/dionysos-home-teaser-20x-blur2-q30.webp" data-srcset="https://balance.michael-aust.com/media/pages/home/fabae3ecf9-1743182713/dionysos-home-teaser-640x.webp" type="image/webp">
+            <source media="(max-width: 1200px)" srcset="https://balance.michael-aust.com/media/pages/home/fabae3ecf9-1743182713/dionysos-home-teaser-20x-blur2-q30.webp" data-srcset="https://balance.michael-aust.com/media/pages/home/fabae3ecf9-1743182713/dionysos-home-teaser-1200x.webp" type="image/webp">
+            <source media="(max-width: 1920px)" srcset="https://balance.michael-aust.com/media/pages/home/fabae3ecf9-1743182713/dionysos-home-teaser-20x-blur2-q30.webp" data-srcset="https://balance.michael-aust.com/media/pages/home/fabae3ecf9-1743182713/dionysos-home-teaser-1920x.webp" type="image/webp">
+            <source media="(min-width: 1921px)" srcset="https://balance.michael-aust.com/media/pages/home/fabae3ecf9-1743182713/dionysos-home-teaser-20x-blur2-q30.webp" data-srcset="https://balance.michael-aust.com/media/pages/home/fabae3ecf9-1743182713/dionysos-home-teaser-2560x.webp" type="image/webp">
+            
+            <img 
+                alt="reference image" 
+                class="lazy" 
+                src="https://balance.michael-aust.com/media/pages/home/fabae3ecf9-1743182713/dionysos-home-teaser-20x-blur2-q30.webp" 
+                data-src="https://balance.michael-aust.com/media/pages/home/fabae3ecf9-1743182713/dionysos-home-teaser-2560x.webp" 
+                data-srcset="https://balance.michael-aust.com/media/pages/home/fabae3ecf9-1743182713/dionysos-home-teaser-480x900-crop.webp 480px, 
+                             https://balance.michael-aust.com/media/pages/home/fabae3ecf9-1743182713/dionysos-home-teaser-640x.webp 640px, 
+                             https://balance.michael-aust.com/media/pages/home/fabae3ecf9-1743182713/dionysos-home-teaser-1200x.webp 1200px, 
+                             https://balance.michael-aust.com/media/pages/home/fabae3ecf9-1743182713/dionysos-home-teaser-1920x.webp 1920px, 
+                             https://balance.michael-aust.com/media/pages/home/fabae3ecf9-1743182713/dionysos-home-teaser-2560x.webp 2560px"
+                data-sizes="(max-width: 480px) 480px, 
+                            (max-width: 760px) 640px, 
+                            (max-width: 1200px) 100vw, 
+                            (max-width: 1920px) 100vw, 
+                            100vw">
+        </picture>
+
+    </div>
+
+
+
+            <div class="row">
+              <div class="col">
+                <h2 class="reference-title line-link shown">
+                  <span data-split-characters>
+                    Dionysos Resorts                  </span>
+                  <span data-split-characters>
+                    Dionysos Resorts                  </span>
+                </h2>
+              </div>
+            </div>
+          </div>
+        </a>
+
+                                <a href="https://balance.michael-aust.com/work/argus-eyewear" title="Argus Eyewear | See reference">
+          <div class="reference-item">
+              <div class="bg">
+        
+        <picture>
+            <source media="(max-width: 480px)" srcset="https://balance.michael-aust.com/media/pages/home/a650906fe2-1743182713/argus-home-teaser-20x-blur2-q30.webp" data-srcset="https://balance.michael-aust.com/media/pages/home/a650906fe2-1743182713/argus-home-teaser-480x900-crop.webp" type="image/webp">
+            <source media="(max-width: 760px)" srcset="https://balance.michael-aust.com/media/pages/home/a650906fe2-1743182713/argus-home-teaser-20x-blur2-q30.webp" data-srcset="https://balance.michael-aust.com/media/pages/home/a650906fe2-1743182713/argus-home-teaser-640x.webp" type="image/webp">
+            <source media="(max-width: 1200px)" srcset="https://balance.michael-aust.com/media/pages/home/a650906fe2-1743182713/argus-home-teaser-20x-blur2-q30.webp" data-srcset="https://balance.michael-aust.com/media/pages/home/a650906fe2-1743182713/argus-home-teaser-1200x.webp" type="image/webp">
+            <source media="(max-width: 1920px)" srcset="https://balance.michael-aust.com/media/pages/home/a650906fe2-1743182713/argus-home-teaser-20x-blur2-q30.webp" data-srcset="https://balance.michael-aust.com/media/pages/home/a650906fe2-1743182713/argus-home-teaser-1920x.webp" type="image/webp">
+            <source media="(min-width: 1921px)" srcset="https://balance.michael-aust.com/media/pages/home/a650906fe2-1743182713/argus-home-teaser-20x-blur2-q30.webp" data-srcset="https://balance.michael-aust.com/media/pages/home/a650906fe2-1743182713/argus-home-teaser-2560x.webp" type="image/webp">
+            
+            <img 
+                alt="reference image" 
+                class="lazy" 
+                src="https://balance.michael-aust.com/media/pages/home/a650906fe2-1743182713/argus-home-teaser-20x-blur2-q30.webp" 
+                data-src="https://balance.michael-aust.com/media/pages/home/a650906fe2-1743182713/argus-home-teaser-2560x.webp" 
+                data-srcset="https://balance.michael-aust.com/media/pages/home/a650906fe2-1743182713/argus-home-teaser-480x900-crop.webp 480px, 
+                             https://balance.michael-aust.com/media/pages/home/a650906fe2-1743182713/argus-home-teaser-640x.webp 640px, 
+                             https://balance.michael-aust.com/media/pages/home/a650906fe2-1743182713/argus-home-teaser-1200x.webp 1200px, 
+                             https://balance.michael-aust.com/media/pages/home/a650906fe2-1743182713/argus-home-teaser-1920x.webp 1920px, 
+                             https://balance.michael-aust.com/media/pages/home/a650906fe2-1743182713/argus-home-teaser-2560x.webp 2560px"
+                data-sizes="(max-width: 480px) 480px, 
+                            (max-width: 760px) 640px, 
+                            (max-width: 1200px) 100vw, 
+                            (max-width: 1920px) 100vw, 
+                            100vw">
+        </picture>
+
+    </div>
+
+
+
+            <div class="row">
+              <div class="col">
+                <h2 class="reference-title line-link shown">
+                  <span data-split-characters>
+                    Argus Eyewear                  </span>
+                  <span data-split-characters>
+                    Argus Eyewear                  </span>
+                </h2>
+              </div>
+            </div>
+          </div>
+        </a>
+
+                      </div>
+      <div class="work-button-sec">
+        <div class="row">
+          <div class="col">
+                        
+                        <a href="https://balance.michael-aust.com/work" class="btn more-work-btn" title="Work | Balance">
+              <div class="clip">
+                <div class="word" data-split-characters>All work <div class="work-count"> (6)</div>
+                </div>
+                <div class="word" data-split-characters>All work <div class="work-count"> (6)</div>
+                </div>
+              </div>
+              <div class="background"></div>
+
+            </a>
+                      </div>
+        </div>
+      </div>
+    </section>
+    
+  </main>
+  <footer>
+  <div class="contact-sec relative">
+    <div class="top-text-ct">
+      <div class="row between">
+        <div class="col large-1">
+          <div class="contact-bracket-text split-line-animation" data-split-lines data-split-words>
+            (Contact)
+          </div>
+        </div>
+        <div class="col large-5">
+          <h2 class="contact-text">
+            <span class="split-line-animation" data-split-lines data-split-words>
+              <span class="spacer"></span>
+              Global presence, global recognition — Contact me to take your next step.            </span>
+          </h2>
+        </div>
+      </div>
+    </div>
+    <div class="bottom-link-sec">
+      <div class="row">
+        <div class="col">
+
+          
+                    <a href="https://balance.michael-aust.com/contact" class="line-link shown letter-animation"
+            title="Contact">
+            <span class="word" data-split-characters>Contact me</span>
+            <span class="word" data-split-characters>Contact me</span>
+            <div class="background"></div>
+
+          </a>
+          
+        </div>
+      </div>
+    </div>
+
+    <div class="bg" data-parallax-strength="2.5" data-parallax-height="0.5">
+            
+      <picture>
+        <source media="(max-width: 480px)" srcset="https://balance.michael-aust.com/media/site/6919a6ec65-1743182712/footer-placeholder-20x-blur2-q30.webp" data-srcset="https://balance.michael-aust.com/media/site/6919a6ec65-1743182712/footer-placeholder-480x840-crop.webp" type="image/webp">
+        <source media="(max-width: 760px)" srcset="https://balance.michael-aust.com/media/site/6919a6ec65-1743182712/footer-placeholder-20x-blur2-q30.webp" data-srcset="https://balance.michael-aust.com/media/site/6919a6ec65-1743182712/footer-placeholder-760x.webp" type="image/webp">
+        <source media="(max-width: 1200px)" srcset="https://balance.michael-aust.com/media/site/6919a6ec65-1743182712/footer-placeholder-20x-blur2-q30.webp" data-srcset="https://balance.michael-aust.com/media/site/6919a6ec65-1743182712/footer-placeholder-1200x.webp"
+          type="image/webp">
+        <source media="(max-width: 1920px)" srcset="https://balance.michael-aust.com/media/site/6919a6ec65-1743182712/footer-placeholder-20x-blur2-q30.webp" data-srcset="https://balance.michael-aust.com/media/site/6919a6ec65-1743182712/footer-placeholder-1920x.webp"
+          type="image/webp">
+        <source media="(min-width: 1921px)" srcset="https://balance.michael-aust.com/media/site/6919a6ec65-1743182712/footer-placeholder-20x-blur2-q30.webp" data-srcset="https://balance.michael-aust.com/media/site/6919a6ec65-1743182712/footer-placeholder-2560x.webp"
+          type="image/webp">
+
+        <img alt="Back to man&#039;s head who has dreadlocks in front of plain light wall." class="lazy" src="https://balance.michael-aust.com/media/site/6919a6ec65-1743182712/footer-placeholder-20x-blur2-q30.webp"
+          data-src="https://balance.michael-aust.com/media/site/6919a6ec65-1743182712/footer-placeholder-2560x.webp" data-srcset="https://balance.michael-aust.com/media/site/6919a6ec65-1743182712/footer-placeholder-480x840-crop.webp 480px, 
+                         https://balance.michael-aust.com/media/site/6919a6ec65-1743182712/footer-placeholder-760x.webp 760px, 
+                         https://balance.michael-aust.com/media/site/6919a6ec65-1743182712/footer-placeholder-1200x.webp 1200px, 
+                         https://balance.michael-aust.com/media/site/6919a6ec65-1743182712/footer-placeholder-1920x.webp 1920px, 
+                         https://balance.michael-aust.com/media/site/6919a6ec65-1743182712/footer-placeholder-2560x.webp 2560px" data-sizes="(max-width: 480px) 480px, 
+                        (max-width: 760px) 760px, 
+                        (max-width: 1200px) 100vw, 
+                        (max-width: 1920px) 100vw, 
+                        100vw" data-parallax-target>
+      </picture>
+
+      
+
+
+    </div>
+  </div>
+
+  <div class="bottom-footer-sec-wrapper relative">
+    <div class="bottom-footer-sec">
+     
+      <div class="row navi-infos-row">
+        <div class="col large-3 info-col">
+          <div class="infos-ct">
+            <div class="row">
+              <div class="col default-5 large-12">
+                <div class="socials-ct">
+                                    <div class="social instagram">
+                    <a href="https://www.instagram.com/" target="_blank"
+                      title="Visit on Instagram">
+                      <i class="icon-instagram"></i>
+                    </a>
+                  </div>
+                                    <div class="social facebook">
+                    <a href="https://www.facebook.com/" target="_blank"
+                      title="Visit on Facebook">
+                      <i class="icon-facebook"></i>
+                    </a>
+                  </div>
+                                    <div class="social x">
+                    <a href="https://x.com/" target="_blank"
+                      title="Visit on X">
+                      <i class="icon-x"></i>
+                    </a>
+                  </div>
+                                    <div class="social linkedin">
+                    <a href="https://www.linkedin.com/" target="_blank"
+                      title="Visit on Linkedin">
+                      <i class="icon-linkedin"></i>
+                    </a>
+                  </div>
+                                    <div class="social youtube">
+                    <a href="https://www.youtube.com/" target="_blank"
+                      title="Visit on Youtube">
+                      <i class="icon-youtube"></i>
+                    </a>
+                  </div>
+                  
+
+                </div>
+              </div>
+              <div class="col default-7 large-12">
+                <div class="contact-infos">
+
+                                                      <div class="element-wrapper">
+                    <div class="contact-type">(Inquiries)</div>
+                                      </div>
+                  <div class="element-wrapper">
+                    <div class="contact-value"><a class="line-link shown email-protected" 
+              data-user="john" 
+              data-domain="jt-studio.com">
+              john[at]jt-studio[dot]com
+          </a></div>
+                  </div>
+
+                                                      <div class="element-wrapper">
+                    <div class="contact-type">(Phone)</div>
+                                      </div>
+                  <div class="element-wrapper">
+                    <div class="contact-value"><a class="line-link shown" title="Give us a call" href="tel:+49123456789">+491234 56789</a></div>
+                  </div>
+
+                                  </div>
+              </div>
+
+            </div>
+
+          </div>
+        </div>
+        <div class="col large-9 footer-nav-col">
+          <div data-nav class="footer-nav">
+            <ul>
+                            <li class="home">
+                <div class="li-inner">
+                  <a href="https://balance.michael-aust.com" class="home line-link"
+                    title="Home">
+                    Home                                      </a>
+                </div>
+              </li>
+                            <li class="about">
+                <div class="li-inner">
+                  <a href="https://balance.michael-aust.com/about" class="about line-link"
+                    title="About">
+                    About                                      </a>
+                </div>
+              </li>
+                            <li class="work">
+                <div class="li-inner">
+                  <a href="https://balance.michael-aust.com/work" class="work line-link"
+                    title="Work">
+                    Work                                        <span class="work-count">(6)</span>
+                                      </a>
+                </div>
+              </li>
+                            <li class="contact">
+                <div class="li-inner">
+                  <a href="https://balance.michael-aust.com/contact" class="contact line-link"
+                    title="Contact">
+                    Contact                                      </a>
+                </div>
+              </li>
+              
+
+
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="row legal-row">
+        <div class="line"></div>
+        <div class="col default-8">
+          <ul class="navi-add">
+            <li>
+                            <a class="line-link" href="https://balance.michael-aust.com/imprint"
+                title="Imprint">Imprint</a>
+              
+            </li>
+            <li>
+                            <a class="line-link" href="https://balance.michael-aust.com/privacy-policy"
+                title="Privacy Policy">Privacy Policy</a>
+                          </li>
+          </ul>
+        </div>
+        <div class="col default-4">
+          <a href="https://balance.michael-aust.com" title="Reload page" class="back-to-top line-link"><i
+              class="icon-arrow-up"></i>Back to top</a>
+            
+        </div>
+ 
+      </div>
+      <a href="http://michael-aust.com/shop" target="_blank" title="Shop this website on Michael Aust's portfolio" class="buythis-sec">
+                <p>You can <span class="line-link shown">buy this website</span>.</p>    
+        </a>
+    </div>
+  </div>
+</footer>  </div>
+<script> 
+    document.getElementsByTagName("body")[0].classList.remove("no-js");
+  </script>
+  
+  <script>
+  (function() {
+    const fontsToCheck = [
+      "Inter",
+      "Inter Tight",
+    ];
+
+    // Helper function to check if all fonts are loaded
+    function areFontsLoaded(fonts) {
+      return Promise.all(
+        fonts.map(font => {
+          return document.fonts.load(`1em ${font}`).then(loadedFonts => {
+            return loadedFonts.length > 0;
+          });
+        })
+      ).then(results => results.every(Boolean));
+    }
+
+    // Check and add class if all fonts are loaded
+    areFontsLoaded(fontsToCheck).then(allLoaded => {
+      if (allLoaded) {
+        document.documentElement.classList.add("fonts-loaded");
+      } else {
+        console.warn("Not all fonts loaded successfully.");
+      }
+    });
+  })();
+</script>
+<script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/studio-freight/lenis@1.0.19/bundled/lenis.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.7/gsap.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@barba/core@2.10.3/dist/barba.umd.min.js"></script>
+<script src="https://unpkg.com/split-type@0.3.4/umd/index.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@17.8.5/dist/lazyload.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.7/ScrollTrigger.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/CustomEase.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script src="https://unpkg.com/accordion-js@3.3.4/dist/accordion.min.js"></script>
+  <script src="https://balance.michael-aust.com/assets/js/scripts.min.js"></script>
+<script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "John Taylor",
+    "url": "https://balance.michael-aust.com",
+    "logo": "https://balance.michael-aust.com/media/site/98305abdd7-1743182712/logo-placeholder.svg",
+    "contactPoint": [
+        {
+            "@type": "ContactPoint",
+            "contactType": "mail",
+            "description": "(Inquiries)",
+            "email": "john@jt-studio.com"
+        },
+        {
+            "@type": "ContactPoint",
+            "contactType": "phone",
+            "description": "(Phone)",
+            "telephone": "+491234 56789"
+        },
+        {
+            "@type": "ContactPoint",
+            "contactType": "text",
+            "description": "(Address)",
+            "value": "Herengracht 386, 1016 CJ Amsterdam"
+        }
+    ],
+    "sameAs": [
+        "https://www.instagram.com/",
+        "https://www.facebook.com/",
+        "https://x.com/",
+        "https://www.linkedin.com/",
+        "https://www.youtube.com/"
+    ]
+}</script>
+
+  </body>
+</html> 
